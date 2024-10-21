@@ -1,6 +1,6 @@
 
 
-# AI-Powered SQL Database Query Agent
+# AI-Powered SQL Database Query Chatbot
 
 ## Overview
 This project is an intelligent SQL query agent that allows users to interact with a PostgreSQL database using **natural language** queries. By leveraging **OpenAI's GPT-4** and **LangChain**, the system translates natural language inputs into SQL commands and executes them on a connected PostgreSQL database. The result is returned as a structured response, making database querying accessible for non-technical users.
